@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": {
+    "name": "Jintao Koong"
+  },
   "license": "MIT",
   "dependencies": {
     "@types/node": "18.14.1",
